@@ -1,0 +1,6 @@
+requirments: 
+
+opencv-python
+numpy
+ultralytics
+pygame
